@@ -15,4 +15,4 @@ A working build of Revisions, a Network proxy built on Scram-jet, a successor to
 
 <img width="1317" height="647" alt="Screenshot 2025-10-02 12 55 49 PM" src="https://github.com/user-attachments/assets/8f39a118-ef7c-43e3-852a-825df1c1c796" />
 
-The agent should start speaking for approximately 5-10 minutes, and then you can either click 'Run' or let the agent continue on its own.
+# The agent should start speaking for approximately 5-10 minutes, and then you can either click 'Run' or let the agent continue on its own.
