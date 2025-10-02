@@ -13,3 +13,4 @@ A working build of Revisions, a Network proxy built on Scram-jet, a successor to
 
 <img width="1317" height="647" alt="Screenshot 2025-10-02 12 55 49 PM" src="https://github.com/user-attachments/assets/8f39a118-ef7c-43e3-852a-825df1c1c796" />
 
+The agent should start yapping for about 5-10 minutes, and then you can either click run or the agent will do it for you
